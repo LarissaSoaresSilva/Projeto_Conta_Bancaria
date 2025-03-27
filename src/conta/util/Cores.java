@@ -2,7 +2,7 @@ package conta.util;
 
 public class Cores {
 
-	//Reset Color- voltar ao padrão
+	                //Reset Color- voltar ao padrão
 			public static final String TEXT_RESET = "\u001B[0m";
 
 			//Text Color - alterar cor do texto 
