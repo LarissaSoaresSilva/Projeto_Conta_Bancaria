@@ -7,8 +7,8 @@ import conta.util.Cores;
 public class Menu {
 
 	public static void main(String[] args) {
-		
-		//Teste da Classe Conta
+
+		// Teste da Classe Conta
 		Conta c1 = new Conta(1, 123, 1, "Adriana", 10000.0f);
 		c1.visualizar();
 		c1.sacar(12000.0f);
@@ -95,9 +95,9 @@ public class Menu {
 
 	public static void sobre() {
 		System.out.println("\n*********************************************************");
-		System.out.println("Projeto Desenvolvido por: ");
-		System.out.println("Generation Brasil - generation@generation.org");
-		System.out.println("github.com/conteudoGeneration");
+		System.out.println("Projeto Desenvolvido por: Larissa Soares  ");
+		System.out.println("Email: larissa.soaress@yahoo.com.br");
+		System.out.println("https://github.com/LarissaSoaresSilva/Projeto_Conta_Bancaria");
 		System.out.println("*********************************************************");
 	}
 }
